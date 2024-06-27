@@ -7,14 +7,7 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/studywithyasharora/Potato-Disease-Classification.git"
   },
-  {
-    "title": "Handwriting Digit Classifier",
-    "imageSrc": "projects/hand.png",
-    "description": "Created a ML model that can classify handwritten digits using CNN, ANN,Tensorflow, Numpy, matplotlib",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/studywithyasharora/machine-learning-projects/blob/main/Digit%20Classifcation%20using%20ann.ipynb"
-  },
+ 
   {
     "title": "Customer Churn Predictions",
     "imageSrc": "projects/project.png",
@@ -22,6 +15,14 @@
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://github.com/studywithyasharora/machine-learning-projects/blob/main/Customer%20churn%20prediction%20using%20ANN.ipynb"
+  },
+  {
+    "title": "Handwriting Digit Classifier",
+    "imageSrc": "projects/hand.png",
+    "description": "Created a ML model that can classify handwritten digits using CNN, ANN,Tensorflow, Numpy, matplotlib",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/studywithyasharora/machine-learning-projects/blob/main/Digit%20Classifcation%20using%20ann.ipynb"
   },
   {
     "title": "Multiple Disease Predictions",
@@ -65,7 +66,7 @@
   },
   {
     "title": "Little Lemon Restaurant",
-    "imageSrc": "projects/lemon.pngr",
+    "imageSrc": "projects/lemon.png",
     "description": "Designed a full responsive front-end of Little Lemon restaurant using HTML, CSS, Jawascript.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
