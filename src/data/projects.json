@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Potatoes Disease Classification",
+    "imageSrc": "projects/patato.png",
+    "description": "Created an ML model that helps predict early blight (fungal disease) and late blight (oomycetes) of potatoes using React, Tensorflow, Numpy, Fast API, and Python",
+    "skills": ["React", "Tensorflow", "Fast API", "Python"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/studywithyasharora/Potato-Disease-Classification.git"
+  },
+  {
+    "title": "Handwriting Digit Classifier",
+    "imageSrc": "projects/hand.png",
+    "description": "Created a ML model that can classify handwritten digits using CNN, ANN,Tensorflow, Numpy, matplotlib",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/studywithyasharora/machine-learning-projects/blob/main/Digit%20Classifcation%20using%20ann.ipynb"
+  },
+  {
+    "title": "Customer Churn Predictions",
+    "imageSrc": "projects/project.png",
+    "description": "A deep learning model that can predict why a customer is leaving a business usNumpy, matplotlib, Tensorflow.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/studywithyasharora/machine-learning-projects/blob/main/Customer%20churn%20prediction%20using%20ANN.ipynb"
+  },
+  {
+    "title": "Multiple Disease Predictions",
+    "imageSrc": "projects/multiple desics.jpeg",
+    "description": "A model that can predict heart disease, Parkinson's disease, and diabetes in a person using Tensorflow pipeline, Numpy, matplotlib, HTML, CSS, JavaScript, Flask, and Python.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/studywithyasharora/collage-mini-project"
+  },
+  {
+    "title": "Loan Prediction System",
+    "imageSrc": "projects/project.png",
+    "description": "Created an ML model that can check the credibility of a person applying for aloan using Tensorflow, multiple classification technique.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/studywithyasharora/machine-learning-projects/tree/main/yhills"
+  },
+  {
+    "title": "Image Classification",
+    "imageSrc": "projects/image classification.jpg",
+    "description": "Trained a model that can classify images of a house, birds, animals using CNN, Matplotlib, Tensorflow.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/studywithyasharora/machine-learning-projects/blob/main/cnn_cifar10_dataset%20.ipynb"
+  },
+  {
+    "title": "Lunar Lander",
+    "imageSrc": "projects/project.png",
+    "description": "Trained an agent to land a lunar lander safely on a landing pad on the moon surface using Numpy, Deque, namedtuple, gym toolkit, PIL.Image, TensorFlow.keras, and utils.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/studywithyasharora/Machine-Learning-lab-Andrew-ng-/blob/main/C_3_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week_3_Reinforcement_learning/lunar_lander_model.h5"
+  },
+  {
+    "title": "Rain Prediction in Australia",
+    "imageSrc": "projects/project.png",
+    "description": "Predicting the rain probabilities using Australian rainfall data with the help of Numpy, pandas, keras, dense, sklearn, KNN, SVM, and some statistical tools.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Little Lemon Restaurant",
+    "imageSrc": "projects/lemon.pngr",
+    "description": "Designed a full responsive front-end of Little Lemon restaurant using HTML, CSS, Jawascript.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/studywithyasharora/Meta-Front-End-Development/tree/main/Course%204%20-%20HTML%20and%20CSS%20in%20depth/Week%203%20-%20Graded%20Assessment/3.restaurant-little-lemon"
+  },
+  {
+    "title": "Amazon Clone",
+    "imageSrc": "projects/amazon.png",
+    "description": "Created a front-end of a clone of the Amazon Website using HTML, and CSS.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/studywithyasharora/Amazon-clone"
+  }
+]

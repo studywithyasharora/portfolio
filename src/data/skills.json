@@ -1,0 +1,63 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/Pandas_mark.svg"
+  },
+  {
+    "title": "Numpy",
+    "imageSrc": "skills/Numpy.svg"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Scikit-learn",
+    "imageSrc": "skills/scikit-learn-logo-small.png"
+  },
+  {
+    "title": "Matplotlib",
+    "imageSrc": "skills/Matplot_lib.svg"
+  },
+  {
+    "title": "Tensorflow",
+    "imageSrc": "skills/Tensorflow.png"
+  },
+  {
+    "title": "OpenCV",
+    "imageSrc": "skills/opencv.png"
+  },
+  {
+    "title": "Deep Learning",
+    "imageSrc": "skills/Deeplearning.png"
+  },
+  {
+    "title": "LLM",
+    "imageSrc": "skills/llm.png"
+  },
+  {
+    "title": "RAG",
+    "imageSrc": "skills/rag.png"
+  },
+  {
+    "title": "DSA",
+    "imageSrc": "skills/DSA.png"
+  }
+]
+
